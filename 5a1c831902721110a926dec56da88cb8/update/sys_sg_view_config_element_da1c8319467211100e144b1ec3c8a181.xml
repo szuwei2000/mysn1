@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>image_01_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:06</sys_created_on>
+        <sys_id>da1c8319467211100e144b1ec3c8a181</sys_id>
+        <sys_name>image_01_element</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_da1c8319467211100e144b1ec3c8a181</sys_update_name>
+        <view_config display_value="Time Off View Config (Admin)">5a1c83190c72111041bf79d6a0c8d68a</view_config>
+        <view_template_slot display_value="image_01">caf849b041275010f877183fc9b8be4e</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

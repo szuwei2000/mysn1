@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>New Event Mapping</name>
+        <parent_macroponent display_value="design test">5e1c83198a7211102b7ea35470104e69</parent_macroponent>
+        <source_component/>
+        <source_da display_value="to_edit">da1c83197e721110b473aee05cbfd3a8</source_da>
+        <source_element_id>data_row_2</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9a1c8319037211104086781313dc5b69</sys_id>
+        <sys_name>New Event Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_9a1c8319037211104086781313dc5b69</sys_update_name>
+        <target_event display_value="Data Set Edit Button Clicked">961c8319e17211100f2a9034b92a4569</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    },
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

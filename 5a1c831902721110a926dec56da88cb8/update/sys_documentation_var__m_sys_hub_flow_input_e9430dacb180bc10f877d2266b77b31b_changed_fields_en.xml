@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="changed_fields" label="Changed Fields" language="en" table="var__m_sys_hub_flow_input_961c831982721110a8efc30ca8fe52a3">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>changed_fields</element>
+            <help/>
+            <hint/>
+            <label>Changed Fields</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_961c831982721110a8efc30ca8fe52a3</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:10</sys_created_on>
+            <sys_name>Changed Fields</sys_name>
+            <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_e9430dacb180bc10f877d2266b77b31b_changed_fields_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

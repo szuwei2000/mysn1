@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem">
+    <sys_ux_custom_content_root_elem action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability>single</applicability>
+        <applicable_page/>
+        <attrs/>
+        <children/>
+        <component display_value="sn-workspace-toolbar-button">c599f5f3b6554fd79cd983bf4ea75968</component>
+        <is_root>true</is_root>
+        <layout/>
+        <macroponent/>
+        <macroponent_config/>
+        <name>Dashboard Button</name>
+        <order>1000</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent/>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <placeholder display_value="Workspace Toolbar Buttons">1232bfb5730c330075e8f358caf6a7ca</placeholder>
+        <sys_class_name>sys_ux_custom_content_root_elem</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>161c83198d7211109cc0e5f7509d49ad</sys_id>
+        <sys_name>Dashboard Button</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_custom_content_root_elem_161c83198d7211109cc0e5f7509d49ad</sys_update_name>
+        <tree_root/>
+    </sys_ux_custom_content_root_elem>
+    <sys_variable_value action="delete_multiple" query="document_key=161c83198d7211109cc0e5f7509d49ad"/>
+</record_update>

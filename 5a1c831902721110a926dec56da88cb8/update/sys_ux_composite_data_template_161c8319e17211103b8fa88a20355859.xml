@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template">
+    <sys_ux_composite_data_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Time Off Template - Draft</name>
+        <sys_class_name>sys_ux_composite_data_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:25</sys_created_on>
+        <sys_id>161c8319e17211103b8fa88a20355859</sys_id>
+        <sys_name>Time Off Template - Draft</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_161c8319e17211103b8fa88a20355859</sys_update_name>
+        <template>{&#13;
+	"component": "now-card-evam-record",&#13;
+	"staticValues": {&#13;
+		"highlightedHeaderIcon": {&#13;
+			"translatable": false,&#13;
+			"key": "presence-fill"&#13;
+		},&#13;
+		"highlightedHeaderBkgColor": {&#13;
+			"translatable": false,&#13;
+			"key": ""&#13;
+		},&#13;
+		"subtitleIcon": {&#13;
+			"translatable": false,&#13;
+			"key": "calendar-fill"&#13;
+		},&#13;
+		"detailLabelOne": {&#13;
+			"translatable": true,&#13;
+			"key": "Duration"&#13;
+		},&#13;
+		"detailLabelTwo": {&#13;
+			"translatable": true,&#13;
+			"key": ""&#13;
+		},&#13;
+		"detailLabelThree": {&#13;
+			"translatable": true,&#13;
+			"key": ""&#13;
+		}&#13;
+	},&#13;
+	"mappings": {&#13;
+		"highlightedHeaderLabel": "status",&#13;
+		"titleLabel": "start_date",&#13;
+		"subtitle": "",&#13;
+		"detailValueOne": ""&#13;
+	},&#13;
+	"actionMappings": {&#13;
+		"mainActions": ["to_edit"],&#13;
+		"clickAction": "to_navigation"&#13;
+	}&#13;
+}</template>
+    </sys_ux_composite_data_template>
+</record_update>

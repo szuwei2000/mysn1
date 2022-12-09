@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_chart_color">
+    <sys_report_chart_color action="INSERT_OR_UPDATE">
+        <color/>
+        <color_name display_value="#eae2f0">521c8319d87211106d54ef6015d048af</color_name>
+        <display>background-color:#eae2f0</display>
+        <element>status</element>
+        <name>x_919647_szuwei_0_request</name>
+        <sys_class_name>sys_report_chart_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:11</sys_created_on>
+        <sys_id>121c8319cf721110b53dff90ed9eda96</sys_id>
+        <sys_name>x_919647_szuwei_0_request</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_report_chart_color_121c8319cf721110b53dff90ed9eda96</sys_update_name>
+        <value>requested</value>
+    </sys_report_chart_color>
+</record_update>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Time Off">da1c83191c721110c45f1c7ffdeb308d</applet_launcher>
+        <icon display_value="My Requests Icon">521c8319cd72111055bd07bec063d58d</icon>
+        <label>Time Off</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:19</sys_created_on>
+        <sys_id>121c83194c721110c13557152f71018d</sys_id>
+        <sys_name>Time Off</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_121c83194c721110c13557152f71018d</sys_update_name>
+    </sys_sg_applet_launcher_tab>
+</record_update>

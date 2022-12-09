@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button display_value="Jump Logged In User Profile">b4bafa0687103300a785940307cb0b3a</header_button>
+        <header_titles>d61c8319447211105da903468711bf8d</header_titles>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Dashboard</name>
+        <required_roles>x_919647_szuwei_0.manager,x_919647_szuwei_0.admin</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:11</sys_created_on>
+        <sys_id>de1c8319a1721110130f1ef967204c8d</sys_id>
+        <sys_name>Dashboard</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_de1c8319a1721110130f1ef967204c8d</sys_update_name>
+        <title>Dashboard</title>
+    </sys_sg_applet_launcher>
+</record_update>

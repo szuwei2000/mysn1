@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_color">
+    <sys_report_color action="INSERT_OR_UPDATE">
+        <color>#eae2f0</color>
+        <display>background-color:#eae2f0</display>
+        <name>#eae2f0</name>
+        <sys_class_name>sys_report_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:06</sys_created_on>
+        <sys_id>521c8319d87211106d54ef6015d048af</sys_id>
+        <sys_name>#eae2f0</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_report_color_521c8319d87211106d54ef6015d048af</sys_update_name>
+        <themeable_color/>
+    </sys_report_color>
+</record_update>

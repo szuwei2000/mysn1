@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_notification">
+    <sys_notification action="INSERT_OR_UPDATE">
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_event_condition>false</advanced_event_condition>
+        <condition table="x_919647_szuwei_0_request">status=requested^EQ<item display_value="Requested" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="requested"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <event/>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_1_table/>
+        <event_parm_2>false</event_parm_2>
+        <event_parm_2_table/>
+        <include_originator>true</include_originator>
+        <name>Time off Submitted</name>
+        <order>100</order>
+        <recipient_fields>requested_by.manager</recipient_fields>
+        <recipient_users/>
+        <script/>
+        <sys_class_name>sys_notification</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9a1c8319fd721110bdf799107aef6497</sys_id>
+        <sys_name>Time off Submitted</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_notification_9a1c8319fd721110bdf799107aef6497</sys_update_name>
+        <table>x_919647_szuwei_0_request</table>
+        <triggered_by>record_change</triggered_by>
+    </sys_notification>
+</record_update>

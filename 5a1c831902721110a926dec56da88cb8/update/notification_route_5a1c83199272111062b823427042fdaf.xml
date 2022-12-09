@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="notification_route">
+    <notification_route action="INSERT_OR_UPDATE">
+        <description>Time off request workspace</description>
+        <name>Time Off Request WS</name>
+        <sys_class_name>notification_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:11</sys_created_on>
+        <sys_id>5a1c83199272111062b823427042fdaf</sys_id>
+        <sys_name>Time Off Request WS</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>notification_route_5a1c83199272111062b823427042fdaf</sys_update_name>
+    </notification_route>
+</record_update>

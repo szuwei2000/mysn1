@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Awaiting Approval Data Item">9e1c83197d7211105ceff1d0c9f5598a</data_item>
+        <interleaved_field/>
+        <name>Awaiting Approval Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:21</sys_created_on>
+        <sys_id>1e1c8319c6721110da9d98bec0fbb687</sys_id>
+        <sys_name>Awaiting Approval Item Stream</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_sg_item_stream_1e1c8319c6721110da9d98bec0fbb687</sys_update_name>
+        <table>x_919647_szuwei_0_request</table>
+    </sys_sg_item_stream>
+</record_update>

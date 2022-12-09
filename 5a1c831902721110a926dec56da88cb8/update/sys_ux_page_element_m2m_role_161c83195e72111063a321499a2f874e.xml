@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element_m2m_role">
+    <sys_ux_page_element_m2m_role action="INSERT_OR_UPDATE">
+        <element display_value="Dashboard Button">161c83198d7211109cc0e5f7509d49ad</element>
+        <group/>
+        <role display_value="x_919647_szuwei_0.admin" name="x_919647_szuwei_0.admin">9a1c8319577211101c09d22e4494b7b7</role>
+        <sys_class_name>sys_ux_page_element_m2m_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:28</sys_created_on>
+        <sys_id>161c83195e72111063a321499a2f874e</sys_id>
+        <sys_name/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_page_element_m2m_role_161c83195e72111063a321499a2f874e</sys_update_name>
+    </sys_ux_page_element_m2m_role>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>sys_search_context_config</description>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="szuwei_timeoff workspace">521c83197b7211107b476d88a705e7b7</page>
+        <required_translations>[]</required_translations>
+        <route display_value="">null</route>
+        <suffix>null</suffix>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>1e1c831920721110f841e04dda19914c</sys_id>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy>null</sys_policy>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_page_property_1e1c831920721110f841e04dda19914c</sys_update_name>
+        <type>string</type>
+        <unique_name>x_919647_szuwei_0.521c83197b7211107b476d88a705e7b7.route.globalSearchDataConfigId</unique_name>
+        <value>521c83190b721110f7092e9fe5a299b3</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=1e1c831920721110f841e04dda19914c"/>
+</record_update>

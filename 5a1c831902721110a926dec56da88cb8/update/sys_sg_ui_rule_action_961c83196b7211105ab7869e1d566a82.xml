@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order/>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:29</sys_created_on>
+        <sys_id>961c83196b7211105ab7869e1d566a82</sys_id>
+        <sys_name/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_961c83196b7211105ab7869e1d566a82</sys_update_name>
+        <target>text_01</target>
+        <ui_rule display_value="Status is Rejected">9a1c8319e272111041d8546ee85cd483</ui_rule>
+        <value>{"TextDecorator": { "Type": "Font", "FontName": "now-mobile-icons-cards", "FontColor": "#975A4A", "Value": "e902"}}</value>
+    </sys_sg_ui_rule_action>
+</record_update>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="de1c8319b9721110444d9684a1bb066f" sys_domain="global" table="x_919647_szuwei_0_request" version="3" view="record_x_919647_szuwei_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rejection_reason</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:28</sys_created_on>
+            <sys_id>de1c831935721110489d2e03b2f4ea6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_szuwei_0_request" sys_domain="global" view="1a1c8319b07211107cd4286c15ce8e6f">de1c8319b9721110444d9684a1bb066f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:28</sys_created_on>
+            <sys_id>9e1c83199872111058724427e87baf6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_szuwei_0_request" sys_domain="global" view="1a1c8319b07211107cd4286c15ce8e6f">de1c8319b9721110444d9684a1bb066f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_off_reason</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:28</sys_created_on>
+            <sys_id>121c83195c721110a12b4a2013702d6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_szuwei_0_request" sys_domain="global" view="1a1c8319b07211107cd4286c15ce8e6f">de1c8319b9721110444d9684a1bb066f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:28</sys_created_on>
+            <sys_id>5a1c8319617211105bd58fb52597bc6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_szuwei_0_request" sys_domain="global" view="1a1c8319b07211107cd4286c15ce8e6f">de1c8319b9721110444d9684a1bb066f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:28</sys_created_on>
+            <sys_id>161c8319477211101d90dda3b5a01f6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_szuwei_0_request" sys_domain="global" view="1a1c8319b07211107cd4286c15ce8e6f">de1c8319b9721110444d9684a1bb066f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:28</sys_created_on>
+            <sys_id>d61c8319e3721110196e24c69ff4226b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_szuwei_0_request" sys_domain="global" view="1a1c8319b07211107cd4286c15ce8e6f">de1c8319b9721110444d9684a1bb066f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:28</sys_created_on>
+            <sys_id>961c83196d72111089e0709570a0006b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_szuwei_0_request" sys_domain="global" view="1a1c8319b07211107cd4286c15ce8e6f">de1c8319b9721110444d9684a1bb066f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:28</sys_created_on>
+            <sys_id>1a1c831958721110f9558bca8648086b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919647_szuwei_0_request" sys_domain="global" view="1a1c8319b07211107cd4286c15ce8e6f">de1c8319b9721110444d9684a1bb066f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_919647_szuwei_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de1c8319b9721110444d9684a1bb066f</sys_id>
+            <sys_name>x_919647_szuwei_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+            <sys_update_name>sys_ui_section_de1c8319b9721110444d9684a1bb066f</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Record (x_919647_szuwei_0)" name="record_x_919647_szuwei_0">1a1c8319b07211107cd4286c15ce8e6f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

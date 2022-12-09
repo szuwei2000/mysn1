@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition">
+    <sys_highlighted_value_condition action="INSERT_OR_UPDATE">
+        <color/>
+        <conditions table="x_919647_szuwei_0_request">status=rejected^EQ<item display_value="Rejected" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="rejected"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <highlighted_value display_value="status">de1c8319e572111033a1df7031ad46a3</highlighted_value>
+        <icon/>
+        <order>50</order>
+        <show_icon>true</show_icon>
+        <status>critical</status>
+        <sys_class_name>sys_highlighted_value_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:22</sys_created_on>
+        <sys_id>921c831940721110fdfc57d96825e4a3</sys_id>
+        <sys_name/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_highlighted_value_condition_921c831940721110fdfc57d96825e4a3</sys_update_name>
+        <value_override/>
+        <variant/>
+    </sys_highlighted_value_condition>
+</record_update>

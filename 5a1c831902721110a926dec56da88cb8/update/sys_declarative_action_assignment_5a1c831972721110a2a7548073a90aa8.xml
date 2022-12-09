@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_declarative_action_assignment">
+    <sys_declarative_action_assignment action="INSERT_OR_UPDATE">
+        <action/>
+        <action_attributes/>
+        <action_name>decline</action_name>
+        <action_payload/>
+        <action_type>type</action_type>
+        <active>true</active>
+        <button_type>tertiary</button_type>
+        <client_action display_value="Edit">5e1c8319607211100da4b36eb93efaa8</client_action>
+        <client_conditions/>
+        <client_conditions_on_fields/>
+        <client_script/>
+        <confirmation_message/>
+        <confirmation_required>false</confirmation_required>
+        <create_access>false</create_access>
+        <declarative_action_render_mode/>
+        <declarative_action_type>uxf_client_action</declarative_action_type>
+        <delete_access>false</delete_access>
+        <dependency/>
+        <description/>
+        <design_icon/>
+        <enabled>true</enabled>
+        <experience_restricted>false</experience_restricted>
+        <field_name/>
+        <field_type>glide_date</field_type>
+        <form_fields_required>false</form_fields_required>
+        <form_position/>
+        <group display_value="">c5b57bdc88b16010f877f9b035bdf4a9</group>
+        <group_by>true</group_by>
+        <icon/>
+        <label>Decline</label>
+        <model display_value="List">c3547169534723003eddddeeff7b126c</model>
+        <model_conditions/>
+        <model_field_required/>
+        <order>20</order>
+        <payload_map/>
+        <read_access>false</read_access>
+        <record_conditions/>
+        <record_selection_required>false</record_selection_required>
+        <required_roles name="x_919647_szuwei_0.manager">921c831948721110cee7f7daf9dc3cb7</required_roles>
+        <requires_value>false</requires_value>
+        <script_condition/>
+        <server_script><![CDATA[function rejectPTO(){
+	g_form.setValue('status', 'rejected');
+	var reason = g_form.getValue('rejection_reason');
+	g_form.hideFieldMsg('rejection_reason');
+	if (reason == ''){
+		g_form.showFieldMsg('rejection_reason', 'Reason for rejection is required when rejecting a Time Off request.', 'error');
+		return false; //abort submission
+	}
+	
+	gsftSubmit(null, g_form.getFormElement(), 'pto_reject'); //MUST call the 'Action name' set in this UI Action
+}
+
+//Code that runs without 'onclick'
+//Ensure call to server-side function with no browser errors
+if (typeof window == 'undefined')
+	serverTimeOff();
+
+function serverTimeOff(){
+	var pto = new TimeOffSNC().rejectTimeOff(current);
+}]]></server_script>
+        <specificity>11</specificity>
+        <sys_class_name>sys_declarative_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a1c831972721110a2a7548073a90aa8</sys_id>
+        <sys_name>decline</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_declarative_action_assignment_5a1c831972721110a2a7548073a90aa8</sys_update_name>
+        <table>x_919647_szuwei_0_request</table>
+        <tooltip/>
+        <ui_component/>
+        <view/>
+        <workspace/>
+        <write_access>false</write_access>
+    </sys_declarative_action_assignment>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a1c831972721110a2a7548073a90aa8"/>
+</record_update>

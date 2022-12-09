@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Time Off Report by Status (Bar) Navigation">921c831929721110a6a8a3249bc68a8c</jump_to_screen>
+        <name>Time Off Trends</name>
+        <report display_value="Time Off Report by Status">de1c8319b27211101d9c010aacdd8c95</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:20</sys_created_on>
+        <sys_id>161c831922721110a0db4e7f230c888b</sys_id>
+        <sys_name>Time Off Trends</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_sg_chart_161c831922721110a0db4e7f230c888b</sys_update_name>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

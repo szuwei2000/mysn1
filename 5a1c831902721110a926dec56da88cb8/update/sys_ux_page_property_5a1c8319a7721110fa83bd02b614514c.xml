@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>cancelConfigID</name>
+        <page display_value="szuwei_timeoff portal">961c8319e972111057d1be35102bcdb7</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>5a1c8319a7721110fa83bd02b614514c</sys_id>
+        <sys_name>cancelConfigID</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_page_property_5a1c8319a7721110fa83bd02b614514c</sys_update_name>
+        <type>string</type>
+        <unique_name>x_919647_szuwei_0.961c8319e972111057d1be35102bcdb7.root.cancelConfigID</unique_name>
+        <value>1a1c831957721110006070bb7f392670</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a1c8319a7721110fa83bd02b614514c"/>
+</record_update>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Approved or Rejected">5a1c8319f1721110771c4384185d6c88</item_parameter>
+        <screen display_value="Time Off Requests">5a1c8319827211105171ef552295ac8c</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:08</sys_created_on>
+        <sys_id>161c831923721110a3d73cb5f7ddde84</sys_id>
+        <sys_name>5a1c8319f1721110771c4384185d6c88</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_161c831923721110a3d73cb5f7ddde84</sys_update_name>
+        <ui_parameter display_value="URL">9a1c83197c721110d8b78c8c32604685</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

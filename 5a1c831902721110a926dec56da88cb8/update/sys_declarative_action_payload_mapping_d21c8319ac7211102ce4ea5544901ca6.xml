@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="List decline modal">de1c8319ac7211103d28560f9eba77a7</action_payload_definition>
+        <label>List open decline modal List</label>
+        <model display_value="List">c3547169534723003eddddeeff7b126c</model>
+        <payload_map>fields@table={{table}}^route=list_modal_page^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:17</sys_created_on>
+        <sys_id>d21c8319ac7211102ce4ea5544901ca6</sys_id>
+        <sys_name>List open decline modal List</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_d21c8319ac7211102ce4ea5544901ca6</sys_update_name>
+    </sys_declarative_action_payload_mapping>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_919647_szuwei_0.admin" name="x_919647_szuwei_0.admin">9a1c8319577211101c09d22e4494b7b7</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:14</sys_created_on>
+        <sys_id>d21c83195b721110439f35a7b7bdb66a</sys_id>
+        <sys_name>canvas_user.x_919647_szuwei_0.admin</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_user_role_contains_d21c83195b721110439f35a7b7bdb66a</sys_update_name>
+    </sys_user_role_contains>
+</record_update>

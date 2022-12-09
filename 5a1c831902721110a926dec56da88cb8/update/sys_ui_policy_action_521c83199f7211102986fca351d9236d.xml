@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>rejection_reason</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:08</sys_created_on>
+        <sys_id>521c83199f7211102986fca351d9236d</sys_id>
+        <sys_name>rejection_reason</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ui_policy_action_521c83199f7211102986fca351d9236d</sys_update_name>
+        <table>x_919647_szuwei_0_request</table>
+        <ui_policy display_value="Show Rejection reason when Rejected">1a1c83199e7211101c0cb52570c9a96d</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

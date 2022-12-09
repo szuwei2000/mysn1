@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_definition">
+    <sys_declarative_action_payload_definition action="INSERT_OR_UPDATE">
+        <action_key>Decline</action_key>
+        <applicable_to>c3547169534723003eddddeeff7b126c,d91731a9534723003eddddeeff7b121c</applicable_to>
+        <description/>
+        <label>Decline</label>
+        <payload_field_table>var__m_sys_declarative_action_payload_field_9e1c8319b47211102091f3b92e5d77a7</payload_field_table>
+        <payload_template/>
+        <sys_class_name>sys_declarative_action_payload_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:12</sys_created_on>
+        <sys_id>9e1c8319b47211102091f3b92e5d77a7</sys_id>
+        <sys_name>Decline</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_definition_9e1c8319b47211102091f3b92e5d77a7</sys_update_name>
+    </sys_declarative_action_payload_definition>
+</record_update>

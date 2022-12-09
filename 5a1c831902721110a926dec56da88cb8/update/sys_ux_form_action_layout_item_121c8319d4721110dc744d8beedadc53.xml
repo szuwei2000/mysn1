@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action_layout_item">
+    <sys_ux_form_action_layout_item action="INSERT_OR_UPDATE">
+        <action display_value="Approve">1e1c831951721110e36cbdfdc0bdab53</action>
+        <active>true</active>
+        <color>primary</color>
+        <description/>
+        <item_type>action</item_type>
+        <label>Approve</label>
+        <layout_group/>
+        <name>approve</name>
+        <order>10</order>
+        <overflow>false</overflow>
+        <sys_class_name>sys_ux_form_action_layout_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:16</sys_created_on>
+        <sys_id>121c8319d4721110dc744d8beedadc53</sys_id>
+        <sys_name>Approve</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_form_action_layout_item_121c8319d4721110dc744d8beedadc53</sys_update_name>
+        <table>global</table>
+    </sys_ux_form_action_layout_item>
+</record_update>

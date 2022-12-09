@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Chart Bar"}</icon>
+        <name>Time Off Dashboard</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:26</sys_created_on>
+        <sys_id>da1c8319e8721110deb420b0c4156e89</sys_id>
+        <sys_name>Time Off Dashboard</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_sg_icon_da1c8319e8721110deb420b0c4156e89</sys_update_name>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

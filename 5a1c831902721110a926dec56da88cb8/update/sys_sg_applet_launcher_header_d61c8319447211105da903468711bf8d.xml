@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header">
+    <sys_sg_applet_launcher_header action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_sg_applet_launcher_header</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:19</sys_created_on>
+        <sys_id>d61c8319447211105da903468711bf8d</sys_id>
+        <sys_name>Hello ${first_name}</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_header_d61c8319447211105da903468711bf8d</sys_update_name>
+        <text>Hello ${first_name}</text>
+        <variables/>
+    </sys_sg_applet_launcher_header>
+</record_update>

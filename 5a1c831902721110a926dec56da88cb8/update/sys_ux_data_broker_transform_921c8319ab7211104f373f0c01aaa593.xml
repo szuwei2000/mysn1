@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_transform">
+    <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
+        <acl_failure_result/>
+        <api_name>x_919647_szuwei_0.Transform Lookup Record</api_name>
+        <description/>
+        <mutates_server_data>false</mutates_server_data>
+        <name>Transform Lookup Record</name>
+        <output_schema/>
+        <private>false</private>
+        <props>[{&#13;
+  "name": "lookupRecord",&#13;
+  "label": "Lookup Record DATA",&#13;
+  "description": "",&#13;
+  "readOnly": false,&#13;
+  "fieldType": "object",&#13;
+  "mandatory": true,&#13;
+  "defaultValue": {}&#13;
+}]</props>
+        <required_translations>[{"message":"Lookup Record DATA","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[function transform(input) {
+	
+
+    //start a Glide Date object
+    var dt = new GlideDate();
+    //set the value to the property value being passed in
+	var userFormat = new x_919647_szuwei_0.TimeOffDateValidation();
+    dt.setValue(userFormat.loggedInUserDateformat(input.lookupRecord.start_date.displayValue));
+    //return the formated date
+    var startDt = dt.getDisplayValue();
+    dt = new GlideDate();
+    //set the value to the property value being passed in
+    dt.setValue(userFormat.loggedInUserDateformat(input.lookupRecord.end_date.displayValue));
+    //return the formated date
+    var endDt = dt.getDisplayValue();
+	
+	var message = gs.getMessage("Time off request for {0}-{1}", [startDt,endDt]);
+	
+	return message;
+
+}]]></script>
+        <sys_class_name>sys_ux_data_broker_transform</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:29</sys_created_on>
+        <sys_id>921c8319ab7211104f373f0c01aaa593</sys_id>
+        <sys_name>Transform Lookup Record</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_data_broker_transform_921c8319ab7211104f373f0c01aaa593</sys_update_name>
+    </sys_ux_data_broker_transform>
+    <sys_translated_text action="delete_multiple" query="documentkey=921c8319ab7211104f373f0c01aaa593"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Request start_date</name>
+        <parent>121c831992721110ba694cc6d30a2a8c</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:14</sys_created_on>
+        <sys_id>d61c8319d2721110e44a5306596c108f</sys_id>
+        <sys_name>Request start_date</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_d61c8319d2721110e44a5306596c108f</sys_update_name>
+        <type>datetime</type>
+    </sys_sg_item_parameter>
+</record_update>

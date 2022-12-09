@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Time Off Requests workspace Config">d21c83196b7211100b86be676ebf69b7</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Compose</name>
+        <optional_parameters/>
+        <order>102</order>
+        <parent_macroponent display_value="Record">d21c83194b721110947d09f3182ce764</parent_macroponent>
+        <parent_macroponent_composition_element_id>contextual_sidebar</parent_macroponent_composition_element_id>
+        <route_type>compose</route_type>
+        <screen_type display_value="Compose">161c8319f67211108157d14e403fd465</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:08</sys_created_on>
+        <sys_id>d21c8319ed721110252395d1f6a8ae65</sys_id>
+        <sys_name>Compose</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_app_route_d21c8319ed721110252395d1f6a8ae65</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d21c8319ed721110252395d1f6a8ae65"/>
+</record_update>

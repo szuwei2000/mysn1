@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Time Off Manager">961c8319cf72111017e4b1b76f2d3f68</applicability>
+        <list display_value="Approved (past)">561c8319e272111040798f96a5eea767</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:23</sys_created_on>
+        <sys_id>921c8319d2721110719a6baad4039c67</sys_id>
+        <sys_name/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_921c8319d2721110719a6baad4039c67</sys_update_name>
+    </sys_ux_applicability_m2m_list>
+</record_update>

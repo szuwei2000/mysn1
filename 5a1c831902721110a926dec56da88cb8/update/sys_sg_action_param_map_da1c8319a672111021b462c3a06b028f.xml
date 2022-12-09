@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit">de1c8319ae72111038237e6608e7738f</button>
+        <item_parameter display_value="Request end_date">961c83198a7211100b87c1497cbedb8f</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:20</sys_created_on>
+        <sys_id>da1c8319a672111021b462c3a06b028f</sys_id>
+        <sys_name>961c83198a7211100b87c1497cbedb8f</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_da1c8319a672111021b462c3a06b028f</sys_update_name>
+        <ui_parameter display_value="End date">1e1c831914721110fd4dfc9602dd508f</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

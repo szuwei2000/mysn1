@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Time Off - All Requests">161c8319f2721110736f1aef0134f85a</dataset>
+        <order/>
+        <predicate_bundle display_value="to_all_bundle">5a1c831933721110cbc3abeb2517c459</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:10</sys_created_on>
+        <sys_id>921c83195b7211104938eb78c5808e59</sys_id>
+        <sys_name/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_921c83195b7211104938eb78c5808e59</sys_update_name>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_form_header_secondary_values">
+    <sys_aw_form_header_secondary_values action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions/>
+        <field>requested_by.manager</field>
+        <form_header display_value="x_919647_szuwei_0_request">1e1c83193772111064d6fcc883e89bad</form_header>
+        <order>600</order>
+        <roles/>
+        <sys_class_name>sys_aw_form_header_secondary_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:26</sys_created_on>
+        <sys_id>561c83193f7211102490973d03e018ad</sys_id>
+        <sys_name>requested_by.manager</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_aw_form_header_secondary_values_561c83193f7211102490973d03e018ad</sys_update_name>
+    </sys_aw_form_header_secondary_values>
+</record_update>

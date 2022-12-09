@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "status" : "request"
+}</macroponent_config>
+        <screen display_value="New record default">921c8319867211104a1a2293edde747d</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:08</sys_created_on>
+        <sys_id>de1c83197b721110e18d112d5bb72f7c</sys_id>
+        <sys_name/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_de1c83197b721110e18d112d5bb72f7c</sys_update_name>
+    </sys_uib_screen_test_values>
+</record_update>

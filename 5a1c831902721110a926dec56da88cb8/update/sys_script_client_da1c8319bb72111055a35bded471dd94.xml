@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>end_date</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Validate End Date</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    var ajax = new GlideAjax('x_919647_szuwei_0.TimeOffDateValidation');
+    ajax.addParam('sysparm_name', 'endDate');
+    ajax.addParam('sysparm_end', newValue);
+    ajax.addParam('sysparm_start', g_form.getValue('start_date'));
+    ajax.getXML(dateValidation);
+    var end_date = newValue.split(' ');
+
+
+
+    function dateValidation(response) {
+        var answer = response.responseXML.documentElement.getAttribute("answer");
+        if (answer == 'true') {
+            g_form.clearValue('end_date');
+            g_form.showFieldMsg('end_date', 'End Date ( ' + end_date[0] + ' ) may not be before Start Date.', 'error');
+        } else {
+            g_form.hideFieldMsg('end_date');
+        }
+    }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>da1c8319bb72111055a35bded471dd94</sys_id>
+        <sys_name>Validate End Date</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_script_client_da1c8319bb72111055a35bded471dd94</sys_update_name>
+        <table>x_919647_szuwei_0_request</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

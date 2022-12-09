@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="List">9e1c83198b7211109cc6606fc1f5b368</macroponent>
+        <name>DeclineModal</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[
+            
+
+function handler({
+        api,
+        event,
+        imports,
+        helpers
+    }) {
+    
+    const { name, payload: { route, fields, params, size = 'md' }} = event;
+    if (name === 'LIST#CLOSE_MODAL')
+        helpers.modal.close('custom_1');
+    
+    else if (name === 'LIST#OPEN_MODAL') {
+        if (!route)
+            return;
+        
+        api.setState('bare', true);
+        api.setState('displayOptions', { size: size });
+        api.setState('contents', {
+            route: route,
+            fields: fields,
+            params: params
+        });
+    }
+    
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:17</sys_created_on>
+        <sys_id>d61c8319057211107c0a11caf33e775f</sys_id>
+        <sys_name>DeclineModal</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_client_script_d61c8319057211107c0a11caf33e775f</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

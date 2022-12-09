@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_919647_szuwei_0_request" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>561c8319f67211105b11cb5f5fbced6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>9a1c8319f5721110ba605a2b537b256e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>161c83194a721110fc6aa79182ad1f6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by.department</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>d61c8319937211106dd35a872d9e1a6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by.manager</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>1a1c8319f0721110802ae99a6db1bf6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date_submitted</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>5a1c83195772111070ed794c449be36e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>961c8319e2721110fb47d575cefc1c6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>1e1c8319157211108ec7c118862ecb6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>times_submitted</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>de1c8319d2721110238e3a16e3dbd26d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_date</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>5e1c8319e8721110e028986eaf7e786d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end_date</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>921c8319767211107725bc9282cd516e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>time_off_reason</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>121c8319b9721110534786e09f1c8f6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>rejection_reason</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>9e1c831994721110acad7a90f3cd6a6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>521c83191e72111056c0426d7f60ad6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_notes</element>
+            <list_id display_value="x_919647_szuwei_0_request" element="NULL" name="x_919647_szuwei_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">da1c83197b721110b696d100db4ed06e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_id>1e1c8319ea721110337102a8df3b866d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-26 20:51:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_919647_szuwei_0_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-26 20:51:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da1c83197b721110b696d100db4ed06e</sys_id>
+            <sys_name>x_919647_szuwei_0_request</sys_name>
+            <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+            <sys_update_name>sys_ui_list_x_919647_szuwei_0_request_null</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

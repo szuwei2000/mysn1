@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Time Off Requests Item Stream">9e1c8319d672111055254ab55024cd87</item_stream>
+        <master_item display_value="Time Off Requests Main Item">561c8319c9721110fc562e922c9dc487</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:22</sys_created_on>
+        <sys_id>961c83190872111094f49101129daa87</sys_id>
+        <sys_name/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_961c83190872111094f49101129daa87</sys_update_name>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

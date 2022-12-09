@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>SESSION_REFRESH_RELAY_1e1c83199c721110f20b5fb153ba415d</event_name>
+        <interfaces/>
+        <label>Canvas User Session Data Resource Transform REFRESH Relay (Draft default (layout tweak))</label>
+        <props>[]</props>
+        <required_translations>[]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:04</sys_created_on>
+        <sys_id>da1c831901721110a4bed777a3f73556</sys_id>
+        <sys_name>Canvas User Session Data Resource Transform REFRESH Relay (Draft default (layout tweak))</sys_name>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_event_da1c831901721110a4bed777a3f73556</sys_update_name>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=da1c831901721110a4bed777a3f73556"/>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="to_navigation">161c83190e72111064037b5075a46da8</declarative_action_assignment>
+        <predicate display_value="Time Off Config  - All EDIT">de1c8319f4721110cec18bc44ecc4a58</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:16</sys_created_on>
+        <sys_id>161c8319bc721110e7e8e1a96a6bba4c</sys_id>
+        <sys_name/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_161c8319bc721110e7e8e1a96a6bba4c</sys_update_name>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Time Off Requests workspace Config">d21c83196b7211100b86be676ebf69b7</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Projects">9e1c83198972111064bf4f19da63ae4f</macroponent>
+        <macroponent_config/>
+        <name>Projects default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Admin List Menu">d21c83192672111091009cfe6265f763</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Projects">521c831996721110734bee3d8c77f463</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>161c83193f72111089a35d10d699854b</sys_id>
+        <sys_name>Projects default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_update_name>sys_ux_screen_161c83193f72111089a35d10d699854b</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=161c83193f72111089a35d10d699854b"/>
+</record_update>

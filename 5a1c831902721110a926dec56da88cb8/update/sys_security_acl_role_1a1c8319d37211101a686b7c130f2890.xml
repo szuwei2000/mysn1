@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 20:51:10</sys_created_on>
+        <sys_id>1a1c8319d37211101a686b7c130f2890</sys_id>
+        <sys_name/>
+        <sys_package display_value="szuwei_timeoff" source="x_919647_szuwei_0">5a1c831902721110a926dec56da88cb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="szuwei_timeoff">5a1c831902721110a926dec56da88cb8</sys_scope>
+        <sys_security_acl display_value="921c83195c7211108c8b32b6ed1b8a94">521c8319757211104899c74123125094</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1a1c8319d37211101a686b7c130f2890</sys_update_name>
+        <sys_user_role display_value="x_919647_szuwei_0.employee" name="x_919647_szuwei_0.employee">5a1c8319fe721110a626e0f939dfd8b7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
